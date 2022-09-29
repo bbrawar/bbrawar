@@ -1,5 +1,5 @@
 # Bhuvnesh Brawar
-Research Scholar, CSIR-UGC-JRF
+Research Scholar, CSIR-UGC-JRF\\
 Radio Cosmology and Space Weather Group 
 Department of Astronomy, Astrophysics & Space Engineering
 Indian Institute of Technology, Indore
