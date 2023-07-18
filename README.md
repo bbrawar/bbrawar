@@ -7,7 +7,7 @@ Email: <ul>
 </ul>
 
 Research Scholar, CSIR-UGC-JRF <br />
-Radio Cosmology and Space Weather Group <br /> 
+Space Technology & Radio Cosmology Group <br /> 
 Department of Astronomy, Astrophysics & Space Engineering <br />
 Indian Institute of Technology, Indore <br />
 Khandwa Road, Simrol, <br />
