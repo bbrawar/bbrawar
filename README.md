@@ -15,7 +15,7 @@ Indore 453552, <br />
 Madhyapradesh, INDIA <br />
 
 ---
-![YasinEnigma github stats](https://github-readme-stats.vercel.app/api?username=BhuvneshB&show_icons=true&theme=tokyonight)
+![YasinEnigma github stats](https://github-readme-stats.vercel.app/api?username=bbrawar&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvneshB&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrawar&layout=compact)
 
