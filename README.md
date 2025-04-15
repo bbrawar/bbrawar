@@ -43,7 +43,7 @@ Madhyapradesh, INDIA <br />
 ---
 [![](https://visitcount.itsvg.in/api?id=bbrawar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you find my codes helpful, you can buy me a coffee:)
   Using UPI: 
   
   <img align="left" width="180" height="180" src="https://github.com/user-attachments/assets/fa5c1753-3705-4785-bc44-8ec7224d69a6">
